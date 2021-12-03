@@ -4,6 +4,9 @@ const GlobalStyle = createGlobalStyle`
   :root{
     --bg-nav: #090b13;
     --bg-main: #040714;
+    --bt-colorblack: black;
+    --bt-colorwhite: #f9f9f9;
+    --signup-bg: #0063e5;
 
   }
 
