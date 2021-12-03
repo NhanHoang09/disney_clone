@@ -3,6 +3,7 @@ import { createGlobalStyle } from "styled-components";
 const GlobalStyle = createGlobalStyle`
   :root{
     --bg-nav: #090b13;
+    --bg-main: #040714;
 
   }
 
